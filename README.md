@@ -6,6 +6,8 @@ Group loose files into folders, review destinations before moving anything, auto
 
 ## Download
 
+**[Download TidyDesk for Windows](https://github.com/Khenert-dev/TidyDesk/releases/latest)**
+
 Get the Windows x64 installer from the repository's **Releases** page. Choose the installer asset, not GitHub's automatically generated “Source code” ZIP. No Python installation is needed. This repository distributes the app and public documentation; the application source is private.
 
 The SHA-256 checksum lets you check download integrity. The installer is unsigned; a checksum does not establish publisher identity.
