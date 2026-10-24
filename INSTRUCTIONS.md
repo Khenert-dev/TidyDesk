@@ -4,7 +4,7 @@
 
 1. Download the Windows x64 installer from the official TidyDesk GitHub release. You do not need Python or the application source code.
 2. If an older copy is running, right-click its system-tray icon and choose **Exit TidyDesk**.
-3. Open the installer and finish Setup. It installs for your Windows account and adds a Start menu shortcut. A Desktop shortcut is optional.
+3. Setup checks for running copies, including older portable versions. If it asks you to exit TidyDesk, use the tray menu and try again. Open the installer and finish Setup. It installs for your Windows account and adds a Start menu shortcut. A Desktop shortcut is optional.
 4. Open **TidyDesk** from the Start menu. The developer popup appears once; choose **Continue**. **About TidyDesk** reopens it later.
 
 The distributed build is unsigned. Verify the release checksum if you need to check download integrity; a checksum is not a publisher signature.
